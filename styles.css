@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    display: flex;
+    
+    justify-content: center;
+    padding: 500px;
+}
+
+.buttonContainer{
+    display: flex;
+    gap: 100px;
+}
+
+button{
+    padding: 50px;
+    font-size: larger;
+}
