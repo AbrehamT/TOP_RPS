@@ -1,1 +1,1 @@
-This is a console version of a Rock, Paper, Scissor game written in JavaScript and is run in a website.
+This is a UI version of a Rock, Paper, Scissor game written in JavaScript and is run in a website.
